@@ -1,0 +1,29 @@
+h1{
+    color:#2e2d2d;
+}
+body{
+    background-color:#3dffff;
+}
+h1{
+    text-align:center;
+    font-size:69px;
+}
+.img{
+align-items: center;
+    max-height: 100vw;
+    max-width: 100vw;
+    width: 97%;
+    padding-left: 20px;
+}
+p{
+    text-align:center;
+}
+#main-p{
+    font-size:25px;
+    margin:20px;
+}
+#mwaha{
+    display: flex;
+    flex-direction: column;
+    margin:50px;
+}
